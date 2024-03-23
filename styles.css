@@ -30,6 +30,21 @@ figcaption {
     text-align: center;
 }
 
+section {
+    margin: 3em;
+max-width: 75%;
+    margin: 0 auto;
+}
+
+a {
+    color: #f90;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
 
 #image {
     max-width: 100%;
